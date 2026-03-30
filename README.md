@@ -138,9 +138,9 @@ In **Settings → General**, you can enable **Launch at system startup** so Claw
 
 ### System Requirements
 
-- **Operating System**: macOS 11+, Windows 10+, or Linux (Ubuntu 20.04+)
-- **Memory**: 4GB RAM minimum (8GB recommended)
-- **Storage**: 1GB available disk space
+- **Operating System**: macOS 11+, Windows 10+, or Linux (Ubuntu 20.04+).
+- **Memory**: 4GB RAM minimum (8GB recommended).
+- **Storage**: 1GB available disk space.
 
 ### Installation
 
